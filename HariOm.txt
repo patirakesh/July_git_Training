@@ -1,5 +1,11 @@
 Aim: 
 1. This branch shall be cloned in local workspace in gitTraining.
 2. Default main branch will be cloned. Now check how to pull this Development branch
+Above this context is same for both Development and Rakesh branches.
+Development Branch edtition:
 Changing in HariOm.txt in Development Branch to see merge conflict. 
 Same Repository with different branches is used for testing here
+
+Rakesh branch edition:
+3. Checking merge conflict in pne repository with different branches
+
