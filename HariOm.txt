@@ -1,3 +1,4 @@
 Aim: 
 1. This branch shall be cloned in local workspace in gitTraining.
 2. Default main branch will be cloned. Now check how to pull this Development branch
+3. Checking merge conflict in pne repository with different branches
